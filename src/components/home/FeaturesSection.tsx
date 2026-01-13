@@ -11,21 +11,21 @@ const features = [
   },
   {
     icon: DollarSign,
-    title: "Simplicity and Affordability",
+    title: "ICP Tech Active Leads",
     description:
-      "Find easy-to-use, affordable solutions with ScrewFast's line of tools and equipment. Our products make procurement simple and keep projects within budget.",
+      "ICPTech, also known as the ICP Active Audience platform, is an AI-powered tool designed to generate high-quality B2B leads for your SDRs.",
   },
   {
     icon: BookOpen,
-    title: "Comprehensive Documentation",
+    title: "Data Enrichment",
     description:
-      "Integrate with ease using ScrewFast's exhaustive guides and libraries. Achieve seamless product adoption with our full suite of documentation designed for your success.",
+      "This makes sure your data is clean, complete, and trustworthy, so you’re not making decisions based on messy, missing, or wrong information.",
   },
   {
     icon: Layout,
-    title: "User-Centric Design",
+    title: "Growth Teams",
     description:
-      "Experience the difference with ScrewFast's user-focused design — where functionality meets practicality for an enhanced work experience.",
+      "Experienced growth specialists who already know what to do, how to do it, and how to apply it to your specific industry.",
   },
 ];
 
@@ -56,10 +56,10 @@ export function FeaturesSection() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Meeting Industry Demands
+              A comprehensive framework of SMART Solutions
             </h2>
             <p className="text-muted-foreground mb-8">
-              At ScrewFast, we tackle the unique challenges encountered in the hardware and construction sectors. From cutting-edge tools to expert services, we're dedicated to helping you overcome obstacles and achieve your goals.
+              As the world's leading service-oriented growth partner, Sales Prospex has redefined the blueprint for sustainable growth—proving that the most valuable currency isn't data itself, but the intelligence to transform it into business outcomes through intent data and buyer signals.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-6">

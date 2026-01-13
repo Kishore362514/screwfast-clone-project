@@ -23,13 +23,24 @@ export function HeroSection() {
             transition={{ duration: 0.6 }}
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              Equip Your Projects{" "}
+              Driving Growth through{" "}
               <br />
-              with <span className="text-primary">ScrewFast</span>
+              <span className="text-primary">Intent and Insights</span>
             </h1>
-            <p className="text-lg text-muted-foreground mb-8 max-w-lg">
-              Top-quality hardware tools and expert construction services for every project need.
+            <p className="text-lg text-muted-foreground mb-4 max-w-lg">
+              Harness our AI-Amplified & Data-Driven Approach to Convert
             </p>
+            <div className="space-y-2 mb-8 max-w-lg">
+              <p className="text-base text-muted-foreground">
+                <span className="text-primary font-semibold">Insights into Impact</span>
+              </p>
+              <p className="text-base text-muted-foreground">
+                <span className="text-primary font-semibold">Analytics into Actionable Results</span>
+              </p>
+              <p className="text-base text-muted-foreground">
+                <span className="text-primary font-semibold">Growth-Hacks into Growth Accelerators</span>
+              </p>
+            </div>
 
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
               <Button asChild size="lg" className="gap-2">

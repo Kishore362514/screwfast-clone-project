@@ -22,21 +22,11 @@ export function TestimonialSection() {
             <div className="glass-card p-6">
               <Quote className="h-8 w-8 text-primary mb-4" />
               <p className="text-lg italic mb-6">
-                ScrewFast dramatically boosted our project efficiency. Setup was instant, and their rapid response times are phenomenal. Truly a game-changer in hardware and construction support!
+                This was the first dataset that actually matched how banks buy technology.
+
+It turned our ABM strategy into real pipeline.
+We finally had lists we could trust.
               </p>
-              <div className="flex items-center gap-4">
-                <img
-                  src="https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?w=100&h=100&fit=crop&crop=face"
-                  alt="Samantha Ruiz"
-                  className="w-12 h-12 rounded-full object-cover"
-                />
-                <div>
-                  <p className="font-semibold">Samantha Ruiz</p>
-                  <p className="text-sm text-muted-foreground">
-                    Chief Operating Officer | ConstructIt Inc.
-                  </p>
-                </div>
-              </div>
             </div>
           </motion.div>
 

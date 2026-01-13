@@ -15,7 +15,8 @@ export function ShowcaseSection() {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Customize ScrewFast's offerings to perfectly suit your hardware and construction needs.
+            Key Data-driven Use Cases —
+Business-ready Offerings for Every Business-need
           </h2>
         </motion.div>
 
